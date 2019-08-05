@@ -15,8 +15,8 @@ Used many `regex` rules to clean the data.
 
 
 ### Tamizh_Word2Vec.ipynb
-Word embeddings for Tamil words using gensim library. 
-This creates the similary metrics between the words. 
+Word embeddings for Tamil words using `gensim` library. 
+This creates the similarity metrics between the words. 
 
 Training model parameter can be adjusted to extend its usage.
 
