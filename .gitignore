@@ -5,6 +5,7 @@ __pycache__/
 
 # Data files to be excluded
 data/
+model/
 
 .vscode/
 
