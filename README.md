@@ -40,3 +40,12 @@ This approach is to convert tamil to english and vice versa (Phonetic translatio
 `data` folder has pickle file, which can be used to continue further. 
 
 Note : Work in progress 
+
+
+# Word Mappings
+
+The idea is to create a mapping between the words.
+1. root word
+2. synonyms
+3. antonyms
+4. related words
